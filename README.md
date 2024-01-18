@@ -3,13 +3,14 @@ Spotify Clone Project: Explore curated songs with playback controls in this web 
 and dive into music. Contribute, customize, and let the music play! 🎶
 <br>
 Features:
-Song Playlist: Dive into a carefully curated list of songs spanning various genres and moods.
 <br>
-Play Controls: Experience the joy of music with full playback controls. Play, pause, skip forward, and rewind to enjoy your favorite tunes seamlessly.
+1.Song Playlist: Dive into a carefully curated list of songs spanning various genres and moods.
 <br>
-Interactive UI: The user interface is designed for a fluid and enjoyable experience. Navigate through the song list effortlessly, and witness a responsive design that adapts to different screen sizes.
+2.Play Controls: Experience the joy of music with full playback controls. Play, pause, skip forward, and rewind to enjoy your favorite tunes seamlessly.
 <br>
-Media Controls: Take full control of your music experience with a playhead that lets you move forward or backward within a song.
+3.Interactive UI: The user interface is designed for a fluid and enjoyable experience. Navigate through the song list effortlessly, and witness a responsive design that adapts to different screen sizes.
+<br>
+4.Media Controls: Take full control of your music experience with a playhead that lets you move forward or backward within a song.
 <br>
 Technologies Used:
 <br>
